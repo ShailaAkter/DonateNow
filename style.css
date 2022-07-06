@@ -240,3 +240,59 @@
     padding: 10px;
     color: #D9DBE1;
 }
+
+.bonus
+{
+    margin-top: 200px;
+}
+
+.bonus-details
+{
+    margin: auto;
+    text-align: center;
+    width: 60%;
+}
+
+.bonus-details h1
+{
+    font-size: 60px;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+
+.bonus-details p
+{
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+.bonus-flex
+{
+    margin: auto;
+    width: 40%;
+    display: flex;
+}
+
+.bonus-flex img
+{
+    height: 200px;
+    width: 150px;
+    padding: 30px;
+    border-radius: 50%;
+}
+
+.bonus-flex h3
+{
+    font-family: comic sans ms;
+    font-size: 25px;
+    padding-top: 50px;
+    padding-left: 30px;
+    color: gray;
+}
+
+.bonus-flex p
+{
+    font-size: 18px;
+    padding: 5px 30px;
+    color: rgb(161, 152, 152);
+}
