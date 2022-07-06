@@ -221,5 +221,22 @@
 
 .footer
 {
+    margin-top: 200px;
+    padding: 55px;
     background-color: #0B0D17;
+    text-align: center;
+}
+
+#lobstar-font
+{
+    font-family: 'Lobster', cursive;;
+    color: #FF5959;
+    font-size: 50px;
+}
+
+.footer p
+{
+    font-size: 16px;
+    padding: 10px;
+    color: #D9DBE1;
 }
